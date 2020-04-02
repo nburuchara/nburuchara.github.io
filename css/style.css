@@ -1,0 +1,364 @@
+
+
+/* NAVBAR */ 
+
+.navbar {
+
+	background-color: #FF3393;
+	text-transform: uppercase;
+	font-family: 'Mukta Vaani', serif;
+	font-weight: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
+.navbar a {
+
+	color: #000000 ! important;
+	opacity: 0.5;
+	font-size: 20px;
+
+}
+.navbar a:hover {
+	opacity: 0.9;
+	background-color: #FF3393;
+
+
+}
+
+/* NAVBAR */ 
+
+
+/* BODY */
+body {
+	overflow: auto;
+	font-family: 'Poiret One';
+
+}
+
+
+/* JUMBOTRON */
+
+.jumbotron {
+	/*background-color: #104290;*/
+	min-height: 800px;
+	background-image: url('header2.JPG');
+}
+
+.jcontainer1 {
+	padding-top: 250px;
+}
+
+.jcontainer1 h1 {
+	font-family: 'Mukta Vaani';
+	font-size: 90px;
+	color: #FF3393;
+}
+
+.jcontainer1 p {
+	font-size: 30px;
+	color: #000000;
+
+}
+
+/* END JUMBOTRON */
+
+
+/* ABOUT */
+
+.containerAbout {
+	min-height: 620px;
+	padding-top: 30px;
+}
+
+
+.containerAbout h2 {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.containerAbout p {
+	padding-left: 100px;
+	padding-top: 20px;
+	font-size: 16px;
+	text-align: center;
+}
+.containerAbout img {
+	width: 500px;
+	padding-left: 80px;
+	
+}
+
+.containerAbout h3 {
+	text-align: center;
+	padding-left: 90px;
+}
+
+.containerAbout ul {
+	text-align: left;
+}
+
+/* List */
+
+.listSection {
+	padding-left: 150px;
+	padding-top: 50px;
+	font-size: 18px;
+}
+
+/* END ABOUT */
+
+/* PROJECTS */ 
+
+
+.containerProjects {
+	background-color: #FF3393; 
+	min-height: 1300px;
+
+}  
+
+.containerProjects h2 {
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 70px;
+}
+
+/*.expHeader h2 {
+	padding-top: 200px ! important;
+}*/
+
+/* Photography Project */
+.photoEdit img {
+	width: 300px;
+	padding-left: 110px;
+
+}
+
+.photoEdit h3 {
+	padding-left: 110px;
+}
+
+/* OleQuiz Project */
+.quizEdit img {
+	width: 310px;
+	padding-left: 150px;
+	padding-top: 20px;
+}
+
+.quizEdit h3 {
+	padding-left: 155px;
+	padding-top: 5px;
+}
+
+.quizEdit h4 {
+	padding-left: 140px;
+}
+
+.quizEdit h5 {
+	padding-left: 188px;
+}
+
+/* STOtrack Project */
+
+.moneyEdit img {
+width: 310px;
+padding-left: 150px;
+padding-top: 20px;
+}
+
+.moneyEdit h3 {
+	padding-left: 170px;
+}
+
+.moneyEdit h4 {
+	padding-left: 150px;
+}
+
+.moneyEdit h5 {
+	padding-left: 200px;
+}
+
+/* FW Villas Project */
+
+.fwvillas img {
+width: 380px;
+padding-left: 60px;
+padding-top: 20px;
+}
+.fwvillas h3 {
+	padding-left: 145px;
+	padding-top: 5px;
+}
+
+.fwvillas h4 {
+	padding-left: 145px;
+}
+
+/* STOPantry Project*/
+.pantry img {
+	width: 280px;
+	padding-left: 90px;
+	padding-top: 0px;
+}
+
+.pantry h3 {
+	padding-left: 130px;
+}
+
+.pantry h4 {
+	padding-left: 90px;
+}
+
+.pantry h5 {
+	padding-left: 140px;
+}
+
+/* CodeCamp Exp. */
+.codecamp h1 {
+	font-family: 'Alfa Slab One';
+	color: #F50606;
+	padding-left: 140px;
+	padding-top: 80px;
+}
+
+.codecamp h3 {
+	padding-left: 90px;
+}
+.codecamp h4 {
+	padding-left: 60px;
+
+}
+
+
+/* WEX Health Exp */
+.wexhealth h3 {
+	padding-left: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+
+}
+.wexhealth img {
+	padding-left: 160px;
+	width: 320px;
+
+}
+.wexhealth h4 {
+	padding-left: 150px;
+
+}
+
+/* SGA Exp. */
+
+.sga img {
+	width: 300px;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+
+.sga h3 {
+	padding-right: 50px;
+	text-align: center;
+}
+
+.sga h4 {
+	padding-left: 20px;
+	
+}
+
+/* IBM Exp. */
+.ibm img{
+	width: 350px;
+	padding-left: 142px;
+}
+
+.ibm h4 {
+	padding-left: 220px;
+
+}
+
+.ibm h3 {
+	padding-left: 20px;
+	text-align: center;
+}
+
+.techwri h4 {
+	padding-right: 100px ! important; 
+	color: white;
+}
+
+.sofdev h4 {
+	padding-right: 100px ! important;
+}
+
+/* END PROJECTS */
+
+/* CONTACT */
+
+.containerContact {
+	min-height: 500px;
+	background-color: #FFFFFF;
+}
+
+.containerContact h2 {
+	text-align: center;
+	padding-top: 80px;
+}
+
+.containerContact img {
+	padding-left: 100px;
+	padding-top: 70px;
+
+}
+
+.containerContact h3 {
+	padding-left: 135px;
+}
+
+/* MAIL */
+.mail h3 {
+	padding-left: 70px ! important; 
+}
+
+.mail img {
+	padding-left: 100px;
+	padding-top: 70px;
+}
+/* RESUME */
+
+.resume img {
+	padding-left: 110px;
+	padding-top: 70px;
+}
+
+/* LINKEDIN */
+
+.linkedin img {
+	padding-left: 108px;
+	padding-top: 70px;
+}
+
+/* GITHUB */
+
+.git img {
+	padding-left: 105px;
+	padding-top: 70px;
+
+
+/* END CONTACT */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
